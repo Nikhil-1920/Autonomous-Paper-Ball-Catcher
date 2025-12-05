@@ -55,7 +55,7 @@ docs/         → Reports, figures, and project documentation
 ## Getting Started
 ```bash
 # Clone repository
-git clone https://github.com/Zia-Mahmood/Autonomous-Paper-Ball-Catcher.git
+git clone https://github.com/Nikhil-1920/Autonomous-Paper-Ball-Catcher.git
 cd Autonomous-Paper-Ball-Catcher
 
 # (Future) Install dependencies
@@ -72,4 +72,5 @@ pip install -r requirements.txt
 * Tune intercept planner for real-time motion
 
 ---
+
 
